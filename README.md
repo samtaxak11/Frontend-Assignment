@@ -51,7 +51,7 @@ The application incorporates advanced fields that can be toggled on and off. Ini
 ## Installation :
 1. Clone the Repository
 ```
-   https://github.com/samtaxak11/Frontend-Assignment.git
+https://github.com/samtaxak11/Frontend-Assignment.git
 ```
 2. Install Dependencies
 ```
